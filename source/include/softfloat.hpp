@@ -1,6 +1,7 @@
 #pragma once
 
 #include <softfloat_types.h>
+#include <string.h>
 
 #ifndef THREAD_LOCAL
 #define THREAD_LOCAL __thread
